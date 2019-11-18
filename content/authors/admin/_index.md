@@ -43,6 +43,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# TODO: change this out from icons to lines of text
 social:
 - icon: envelope
   icon_pack: fas
