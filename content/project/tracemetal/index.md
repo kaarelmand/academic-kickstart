@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Paleoproterozoic redox"
-summary: "Redox evolution of the ocean and atmosphere in the middle Paleoproterozoic, especially relating to the Lomagundi-Jatuli and Shunga events."
+title: "Trace metal geochemistry"
+summary: "The weathering of trace metals on land, their transport into the marine realm, and partitioning in sediments."
 authors: []
 tags: []
 categories: []
-date: 2019-11-18T20:24:11+02:00
+date: 2019-11-11T20:24:11+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,8 +16,8 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Center"
-  preview_only: true
+  focal_point: ""
+  preview_only: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
