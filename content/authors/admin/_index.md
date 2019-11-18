@@ -21,8 +21,8 @@ organizations:
 bio: My research focuses on investigating Pracambrian redox conditions using trace metal based redox proxies.
 
 interests:
-- Paleoproterozoic redox conditions
-- Trace metal partitioning in low-temperature Earth environments
+- Paleoproterozoic redox
+- Trace metal geochemistry
 - Phosphogenesis
 - Phosphatized microfossils
 - Amber geochemistry
@@ -79,4 +79,4 @@ user_groups:
 #- Visitors
 ---
 
-Kaarel Mänd is a PhD candidate at University of Alberta in the field of geobiology under the supervision of Dr. [Kurt O. Konhauser](https://www.konhauser.com/), Dr. [Aivo Lepland](https://www.ngu.no/en/ansatte/aivo-lepland) and Dr. [Kalle Kirsimäe](https://www.etis.ee/Portal/Persons/Display/15b123a0-41f4-48ff-b6c6-b06f928020a4?lang=ENG). His research interests include Precambrian Earth history, trace metal partitioning in low-temperature systems, the generation of phosphate-rich sediments and amber geochemistry.
+Kaarel Mänd is a PhD candidate at University of Alberta in the field of geobiology under the supervision of Dr. [Kurt O. Konhauser](https://www.konhauser.com/), Dr. [Aivo Lepland](https://cage.uit.no/employee/aivo-lepland/) and Dr. [Kalle Kirsimäe](https://www.etis.ee/Portal/Persons/Display/15b123a0-41f4-48ff-b6c6-b06f928020a4?lang=ENG). His research interests include Precambrian Earth history, trace metal partitioning in low-temperature systems, the generation of phosphate-rich sediments and amber geochemistry.

@@ -29,6 +29,16 @@
   weight = 50
 
 [[main]]
+  name = "Presentations"
+  url = "#presentations"
+  weight = 50
+
+[[main]]
+  name = "Funding"
+  url = "#funding"
+  weight = 50
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
