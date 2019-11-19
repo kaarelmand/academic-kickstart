@@ -55,8 +55,9 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=srxWszgAAAAJ
 # TODO: find correct icon!
-- icon: ??
-  icon_pack: ??
+- icon: cv
+  icon_pack: ai
+  name: "ETIS"
   link: https://www.etis.ee/CV/Kaarel_Mand/eng
 # TODO: Add this after something to show on github
 #- icon: github
