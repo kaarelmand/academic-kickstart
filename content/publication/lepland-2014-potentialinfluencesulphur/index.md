@@ -6,7 +6,7 @@ authors: ["Aivo Lepland", "Lauri Joosu", "Kalle Kirsimäe", "Anthony R. Prave", 
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: ""
+publication: "Nature Geoscience"
 tags: ["C: fosfaadid", "phosphate", "Phosphogenesis", "biomineralization", "C: Biomineralisatsioon", "C: metanotroofid", "C: shungiit", "C: sügiskool 2014", "C: sulfobakterid", "metanotrophs", "microbes", "microfossils", "Phosphorite", "shungite", "sulphur bacteria"]
 url_pdf: "http://dx.doi.org/10.1038/ngeo2005"
 doi: "10.1038/NGEO2005"
