@@ -1,1 +1,6 @@
 kaota cr/ti joonise taust ära (transparent)
+muuda publikatsioonide 'pdf' ära 'url'-iks
+lisa publikatsioonidele juurde issue, volume, pages, jne
+pane presentatsioonid zoterosse vastavasse kausta
+importi presentatsioonid ja tee see leht 'publication' formaati
+vaata et kõigi autorite keskmised nimed oleks kah olemas

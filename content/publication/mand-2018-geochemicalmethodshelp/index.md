@@ -6,6 +6,7 @@ authors: ["Kaarel Mänd"]
 publication_types: ["0"]
 abstract: ""
 featured: false
+categories: ["Publication"]
 publication: "Science Trends"
 url_pdf: "https://sciencetrends.com/geochemical-methods-help-resolve-a-long-standing-debate-in-amber-palaeontology/"
 ---

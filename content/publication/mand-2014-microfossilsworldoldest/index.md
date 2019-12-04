@@ -6,7 +6,8 @@ authors: ["Kaarel Mänd"]
 publication_types: ["6"]
 abstract: ""
 featured: false
-publication: "*Fosfor – aegade algusest tänapäevani. Schola Geologica X*"
+categories: ["Publication"]
+publication: "*Fosfor – aegade algusest tänapäevani. Schola Geologica X* (pp. 48-56)"
 url_pdf: "https://docs.google.com/uc?id=0B_N9jbYgrqcPT0FmaWh5RVJoVHM&export=download"
 ---
 
