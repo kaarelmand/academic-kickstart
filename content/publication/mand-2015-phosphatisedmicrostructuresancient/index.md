@@ -1,13 +1,13 @@
 ---
-title: "Phosphatised Microstructures in Ancient and Modern Phosphorites"
-date: 2015-01-01
+title: "Phosphatised microstructures in ancient and modern phosphorites"
+date: 2015-06-02
 publishDate: 2019-12-04T15:57:25.448811Z
-authors: ["Kaarel Mänd"]
+authors: ["Mänd, K."]
 publication_types: ["3"]
 abstract: ""
 featured: false
-publication: ""
+publication: "Poster session presented at *Scientific Knowledge Applied to the Sustainable Use of Coastal Upwelling Ecosystems*, Swakopmund, Namibia"
 categories: ["Presentation"]
-url_pdf: "https://goldschmidtabstracts.info/abstracts/abstractView?id=2015003584"
+url_pdf: ""
 ---
 
