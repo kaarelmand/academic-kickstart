@@ -14,8 +14,10 @@ role: PhD candidate in Earth and Atmospheric Sciences
 
 # Organizations/Affiliations
 organizations:
-- name: University of Alberta
-  url: ""
+#- name: University of Alberta
+#  url: "https://www.ualberta.ca/earth-sciences"
+- name: ETIS profile
+  url: "https://www.etis.ee/CV/Kaarel_Mand/eng"
 
 # Short bio (displayed in user profile at end of posts)
 bio: His research focuses on investigating Pracambrian redox conditions using trace metal based redox proxies.
@@ -43,7 +45,6 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# TODO: change this out from icons to lines of text
 social:
 - icon: envelope
   icon_pack: fas
@@ -54,15 +55,17 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=srxWszgAAAAJ
-# TODO: find correct icon!
-- icon: cv
+# TODO: make this into text (refer to chat site for Academic theme)
+- icon: orcid
   icon_pack: ai
-  name: "ETIS"
-  link: https://www.etis.ee/CV/Kaarel_Mand/eng
-# TODO: Add this after something to show on github
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+  link: https://orcid.org/0000-0003-1575-3710
+#- icon: cv
+#  icon_pack: ai
+#  name: "ETIS"
+#  link: https://www.etis.ee/CV/Kaarel_Mand/eng
+- icon: github
+  icon_pack: fab
+  link: https://github.com/kaarelmand
 # TODO:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -80,4 +83,4 @@ user_groups:
 #- Visitors
 ---
 
-Kaarel Mänd is an Earth science PhD candidate at University of Alberta under the supervision of [Dr. Kurt O. Konhauser](https://www.konhauser.com/), [Dr. Aivo Lepland](https://cage.uit.no/employee/aivo-lepland/), and [Dr. Kalle Kirsimäe](https://www.etis.ee/Portal/Persons/Display/15b123a0-41f4-48ff-b6c6-b06f928020a4?lang=ENG). He focuses on changes in rock weathering and nutrient cycling that affected Earth's oceans, atmosphere, and biosphere in the Precambrian eons. For this purpose, he utilizes a variety of trace metal-based paleoenvironmental proxies preserved in ancient sedimentary rocks.
+Kaarel Mänd is an Earth science PhD candidate at the University of Alberta under the supervision of [Dr. Kurt O. Konhauser](https://www.konhauser.com/), [Dr. Aivo Lepland](https://cage.uit.no/employee/aivo-lepland/), and [Dr. Kalle Kirsimäe](https://www.etis.ee/Portal/Persons/Display/15b123a0-41f4-48ff-b6c6-b06f928020a4?lang=ENG). He focuses on changes in rock weathering and nutrient cycling that affected Earth's oceans, atmosphere, and biosphere in the Precambrian eons. For this purpose, he utilizes a variety of trace metal-based paleoenvironmental proxies preserved in ancient sedimentary rocks.

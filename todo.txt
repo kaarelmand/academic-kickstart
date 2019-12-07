@@ -1,3 +1,2 @@
-kaota cr/ti joonise taust ära (transparent)
-muuda kõik research pildid samadesse mõõtmetesse
+lisa cv pdf file
 (lisa skills vaheleht?)
