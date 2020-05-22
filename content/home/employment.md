@@ -19,12 +19,12 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Geology specialist / Laboratory assistant"
+  title = "Laboratory Assistant / Data specialist"
   company = "University of Tartu, Department of Geology"
   company_url = "https://www.geoloogia.ut.ee/en"
   location = "Tartu, Estonia"
-  date_start = "2013-01-01"
-  date_end = "2016-08-31"
+  date_start = "2013-07-01"
+  date_end = "2015-08-31"
   description = ""
 
 [[experience]]
@@ -33,6 +33,15 @@ date_format = "2006"
   company_url = "https://www.ualberta.ca/earth-sciences"
   location = "Edmonton, AB, Canada"
   date_start = "2018-09-01"
+  date_end = "2019-12-31"
+  description = ""
+
+[[experience]]
+  title = "Environmental Chemistry Specialist / Analyst"
+  company = "University of Tartu, Department of Geology"
+  company_url = "https://www.geoloogia.ut.ee/en"
+  location = "Tartu, Estonia"
+  date_start = "2016-07-01"
   date_end = ""
   description = ""
 
