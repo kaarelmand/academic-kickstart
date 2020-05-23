@@ -6,7 +6,7 @@ authors: ["Leslie J. Robbins", "Kaarel Mänd", "Noah J. Planavsky", "Daniel S. A
 publication_types: ["6"]
 abstract: ""
 featured: false
-publication: "In: M. Gargaud, et al. (Eds.), *Encyclopedia of Astrobiology*. Springer, Berlin, Heidelberg"
+publication: "Rmt: Gargaud, M. et al. (toim.), *Encyclopedia of Astrobiology*. Springer, Berlin, Heidelberg"
 categories: ["Publication"]
 tags: ["Biosignatures", "Metalloenzymes", "Oxygenation", "Redox reactions", "Trace metals"]
 doi: "10.1007/978-3-642-27833-4_5422-1"

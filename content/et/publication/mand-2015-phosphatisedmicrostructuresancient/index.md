@@ -6,7 +6,7 @@ authors: ["Mänd, K."]
 publication_types: ["3"]
 abstract: ""
 featured: false
-publication: "Poster session presented at *Scientific Knowledge Applied to the Sustainable Use of Coastal Upwelling Ecosystems*, Swakopmund, Namibia"
+publication: "Posterettekanne konverentsil *Scientific Knowledge Applied to the Sustainable Use of Coastal Upwelling Ecosystems*. Swakopmund, Namiibia"
 categories: ["Presentation"]
 url_pdf: ""
 ---
