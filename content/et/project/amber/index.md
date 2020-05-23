@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Merevaigu geokeemia"
-summary: "Merevaigulademete tekke uurimine stabiilsete isotoopide suhete ja sprektraalanalüüsi abil."
+summary: "Merevaigulademete tekketingimuste uurimine stabiilsete isotoopide suhete ja sprektraalanalüüsi abil."
 authors: []
 tags: []
 categories: []

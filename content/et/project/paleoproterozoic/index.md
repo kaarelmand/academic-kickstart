@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Redokstingimused Proterosoikumis"
-summary: "Maakera pinna redokstingimuste areng läbi Paleoproterosoikumi aegkonna. Süsiniku- ja hapnikuringe pikaajaliste koosmõjude seletamine."
+summary: "Maakera pinna redokstingimuste areng läbi Paleoproterosoikumi aegkonna. Süsiniku- ja hapnikuringe pikaajaliste koosmõjude selgitamine."
 authors: []
 tags: []
 categories: []

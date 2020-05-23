@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Jälgmetallide geokeemia"
-summary: "Jälgmetallide porsumine mandritel, nende transportimine ookeanidesse ja ladestumine setetes."
+summary: "Jälgmetallide porsumine mandritel, nende transport ookeanidesse ja ladestumine setetes."
 authors: []
 tags: []
 categories: []

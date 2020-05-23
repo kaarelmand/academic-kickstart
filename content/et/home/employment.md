@@ -19,7 +19,7 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Keskkonnakeemia spetsialist / analüütik"
+  title = "Laborant/andmetöötluse spetsialist"
   company = "Tartu Ülikool, Ökoloogia ja Maateaduste Instituut"
   company_url = "https://www.geoloogia.ut.ee"
   location = "Tartu"
@@ -37,7 +37,7 @@ date_format = "2006"
   description = ""
 
 [[experience]]
-  title = "Environmental Chemistry Specialist / Analyst"
+  title = "Keskkonnakeemia spetsialist / analüütik"
   company = "Tartu Ülikool, Ökoloogia ja Maateaduste Instituut"
   company_url = "https://www.geoloogia.ut.ee"
   location = "Tartu"
