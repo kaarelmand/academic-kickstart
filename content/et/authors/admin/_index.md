@@ -34,10 +34,10 @@ education:
   - course: Doktorant (maa- ja atmosfääriteadused)
     institution: Alberta Ülikool, Kanada
     year: 2020 (orienteeruvalt)
-  - course: Teadusmagister (geoloogia)
+  - course: Teadusmagister (geoloogia, cum laude)
     institution: Tartu Ülikool
     year: 2016
-  - course: Bakalaureusekraad (geoloogia)
+  - course: Bakalaureusekraad (geoloogia, cum laude)
     institution: Tartu Ülikool
     year: 2013
 
