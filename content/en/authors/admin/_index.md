@@ -9,31 +9,33 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: PhD candidate in Earth and Atmospheric Sciences
+# Role/position/tagline
+role: Research Fellow at the University of Tartu
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
-#- name: University of Alberta
-#  url: "https://www.ualberta.ca/earth-sciences"
+#- name: University of Tartu, Department of Geology
+#  url: "https://www.geoloogia.ut.ee/en"
 - name: ETIS profile
   url: "https://www.etis.ee/CV/Kaarel_Mand/eng"
 
 # Short bio (displayed in user profile at end of posts)
-bio: His research focuses on investigating Pracambrian redox conditions using trace metal based redox proxies.
+bio: My research focuses on investigating Precambrian redox conditions using trace metal based redox proxies.
 
+# Interests to show in About widget
 interests:
-- Paleoproterozoic redox
 - Trace metal geochemistry
+- Paleoproterozoic redox
+- Weathering regimes
 - Phosphogenesis
-- Phosphatized microfossils
 - Amber geochemistry
 
+# Education to show in About widget
 education:
   courses:
   - course: PhD in Earth and Atmospheric Sciences
     institution: University of Alberta
-    year: 2020 (expected)
+    year: 2021
   - course: MSc in Geology
     institution: University of Tartu
     year: 2016
@@ -55,7 +57,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=srxWszgAAAAJ
-# TODO: make this into text (refer to chat site for Academic theme)
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-1575-3710
@@ -81,6 +82,9 @@ email: ""
 user_groups:
 #- Researchers
 #- Visitors
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
-I am an Earth science PhD candidate at the University of Alberta under the supervision of [Dr. Kurt O. Konhauser](https://www.konhauser.com/), [Dr. Aivo Lepland](https://cage.uit.no/employee/aivo-lepland/), and [Dr. Kalle Kirsimäe](https://www.etis.ee/Portal/Persons/Display/15b123a0-41f4-48ff-b6c6-b06f928020a4?lang=ENG). I focus on changes in rock weathering and nutrient cycling that affected Earth's oceans, atmosphere, and biosphere in the Precambrian eons. For this purpose, I utilize a variety of trace metal-based paleoenvironmental proxies preserved in ancient sedimentary rocks.
+I am a Research Fellow in Earth sciences at the [University of Tartu](https://www.geoloogia.ut.ee/en) in Estonia. I am fascinated by changes in nutrient cycling and rock weathering that took place on the ancient Earth, drastically affecting its oceans, atmosphere, and biosphere. To study these shifts, I utilize a variety of trace metal-based paleoenvironmental proxies preserved in ancient sedimentary rocks, especially those formed in the Palaeoproterozoic and Palaeozoic eras.
