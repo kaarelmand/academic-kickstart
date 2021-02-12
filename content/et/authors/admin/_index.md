@@ -10,30 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Maa- ja atmosfääriteaduste doktorant
+role: Nooremteadur Tartu Ülikoolis
 
 # Organizations/Affiliations
 organizations:
-#- name: University of Alberta
-#  url: "https://www.ualberta.ca/earth-sciences"
+#- name: Tartu Ülikooli Geoloogia osakond
+#  url: "https://www.geoloogia.ut.ee/et"
 - name: ETIS
   url: "https://www.etis.ee/CV/Kaarel_Mand/est"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Minu teadustöö põhisuunaks on Eelkambriumi ajastu keskkonnatingimuste uurimine kivimite jälgmetallkoostise põhjal.
+bio: Minu teadustöö põhisuunaks on Eelkambriumi aja keskkonnatingimuste uurimine kivimite jälgmetallkoostise põhjal.
 
 interests:
-- Redokstingimused Paleoproterosoikumis
 - Jälgmetallide geokeemia
+- Redokstingimused Paleoproterosoikumis
+- Murenemiskeskkonnad
 - Fosfogenees
-- Fosfaatsed mikrofossiilid
 - Merevaigu geokeemia
 
 education:
   courses:
-  - course: Doktorant (maa- ja atmosfääriteadused)
+  - course: Filosoofiadoktor (maa- ja atmosfääriteadused)
     institution: Alberta Ülikool, Kanada
-    year: 2020 (orienteeruvalt)
+    year: 2021
   - course: Teadusmagister (geoloogia, cum laude)
     institution: Tartu Ülikool
     year: 2016
@@ -83,4 +83,4 @@ user_groups:
 #- Visitors
 ---
 
-Olen maateaduste doktorant Alberta Ülikoolis, Kanadas. Minu kaasjuhendajateks on [Kurt O. Konhauser](https://www.konhauser.com/), [Aivo Lepland](https://cage.uit.no/employee/aivo-lepland/) ja [Kalle Kirsimäe](https://www.etis.ee/Portal/Persons/Display/15b123a0-41f4-48ff-b6c6-b06f928020a4?lang=ENG). Minu teadustöö keskendub toitainete murenemisele mandritel, nende ringlusele veekeskkondades ja mõjule, mida nad avaldasid Eelkambriumi ookeanidele, atmosfäärile ja biosfäärile. Nende teemade uurimiseks rakendan ma iidsetes settekivimites salvestunud jälgmetallide-põhiseid paleokeskkonna indikaatoreid.
+Olen [Tartu Ülikooli Geoloogia osakonna](https://www.geoloogia.ut.ee/et) nooremteadur. Minu teadustöö põhisuunaks on uurida iidsel Maakeral toimunud suuremastaabilisi muudatusi mandrite murenemises ja toitainete ringluses veekeskkondades ning nende muudatuste mõjus ookeanidele, atmosfäärile ja biosfäärile. Selleks puhuks rakendan ma iidsetesse settekivimitesse salvestunud jälgmetallide-põhiseid paleokeskkonna indikaatoreid, mille abil on võimalik taasluua mineviku keskkonnatingimusi.
