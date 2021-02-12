@@ -42,7 +42,7 @@ date_format = "2006"
   company_url = "https://www.geoloogia.ut.ee"
   location = "Tartu"
   date_start = "2016-07-01"
-  date_end = ""
+  date_end = "2020-10-20"
   description = ""
 
 [[experience]]
@@ -51,7 +51,15 @@ date_format = "2006"
   company_url = "https://www.ualberta.ca/current-students/centre-for-writers"
   location = "Edmonton, AB, Kanada"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2020-08-31"
   description = ""
 
+[[experience]]
+  title = "Nooremteadur"
+  company = "Tartu Ülikool, Ökoloogia ja Maateaduste Instituut"
+  company_url = "https://www.geoloogia.ut.ee/et"
+  location = "Tartu"
+  date_start = "2020-10-20"
+  date_end = ""
+  description = ""
 +++

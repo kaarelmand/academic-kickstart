@@ -83,4 +83,4 @@ user_groups:
 #- Visitors
 ---
 
-Olen [Tartu Ülikooli Geoloogia osakonna](https://www.geoloogia.ut.ee/et) nooremteadur. Minu teadustöö põhisuunaks on uurida iidsel Maakeral toimunud suuremastaabilisi muudatusi mandrite murenemises ja toitainete ringluses veekeskkondades ning nende muudatuste mõjus ookeanidele, atmosfäärile ja biosfäärile. Selleks puhuks rakendan ma iidsetesse settekivimitesse salvestunud jälgmetallide-põhiseid paleokeskkonna indikaatoreid, mille abil on võimalik taasluua mineviku keskkonnatingimusi.
+Olen [Tartu Ülikooli Geoloogia osakonna](https://www.geoloogia.ut.ee/et) nooremteadur. Minu teadustöö põhisuunaks on uurida iidsel Maal toimunud suuremastaabilisi muutusi mandrite murenemises ja toitainete ringluses veekeskkondades ning nende muudatuste mõju ookeanidele, atmosfäärile ja biosfäärile. Selle tarbeks rakendan ma iidsetesse settekivimitesse salvestunud jälgmetallide-põhiseid paleokeskkonna indikaatoreid, mille abil on võimalik taasluua mineviku keskkonnatingimusi.
