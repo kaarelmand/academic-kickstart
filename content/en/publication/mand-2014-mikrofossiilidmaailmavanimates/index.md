@@ -1,14 +1,36 @@
 ---
-title: "Mikrofossiilid maailma vanimates fosforiitides"
-date: 2014-10-17
-publishDate: 2019-12-04T15:57:25.447902Z
-authors: ["Mänd, K."]
-publication_types: ["1"]
-abstract: ""
-featured: false
-categories: ["Presentation"]
-publication: "In L. Lang, K. Truuver & T. Post (Eds.), *Fosfor – aegade algusest tänapäevani. Schola Geologica X* (pp. 48-56). Tartu, Estonia: Estonian Naturalists´ Society. Talk presented at *Schola Geologica X*, Jäneda, Estonia"
-pages: 
-url_pdf: "https://docs.google.com/uc?id=0B_N9jbYgrqcPT0FmaWh5RVJoVHM&export=download"
----
+# Documentation: https://wowchemy.com/docs/managing-content/
 
+title: Microfossils in the world's oldest phosphorites
+subtitle: ''
+summary: ''
+authors:
+- Kaarel Mänd
+tags: []
+categories: ['publication']
+date: '2014-01-01'
+lastmod: 2021-03-02T14:24:18+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-03-02T12:24:18.709762Z'
+publication_types:
+- '1'
+abstract: ''
+publication: "Fosfor – aegade algusest tänapäevani. Schola Geologica X. Estonian Naturalists' Society, Tartu [In Estonian]"
+url_pdf: https://docs.google.com/uc?id=0B_N9jbYgrqcPT0FmaWh5RVJoVHM&export=download
+---

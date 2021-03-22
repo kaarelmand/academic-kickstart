@@ -55,7 +55,7 @@ date_format = "2006"
   description = ""
 
 [[experience]]
-  title = "Nooremteadur"
+  title = "Teadur"
   company = "Tartu Ülikool, Ökoloogia ja Maateaduste Instituut"
   company_url = "https://www.geoloogia.ut.ee/et"
   location = "Tartu"

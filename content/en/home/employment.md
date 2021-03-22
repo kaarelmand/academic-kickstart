@@ -57,7 +57,7 @@ experience:
     date_end: '2020-08-31'
     description: ''
 
-  - title: Junior Research Fellow
+  - title: Research Fellow
     company: University of Tartu, Department of Geology
     company_url: 'https://www.geoloogia.ut.ee/en'
     location: Tartu, Estonia
