@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Teadur Tartu Ülikoolis
+role: Tartu Ülikooli teadur
 
 # Organizations/Affiliations
 organizations:
