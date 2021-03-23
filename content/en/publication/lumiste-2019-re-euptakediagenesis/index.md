@@ -29,7 +29,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Backscattered scanning electron microscope images of pelletal apatitic grains from core CG4 and LA-ICP-MS elemental distribution with enrichment of REE+Y in the outer rim of the grains. Scale bars are in mg/kg and show different values for each individual element. The grain on the right shows concentric layering and several zones of apatite growth. The surface of the internal zone shows enrichment in REE+Y, U and Th similar to the enrichment zone of the external layers of the whole grain.'
   focal_point: ''
   preview_only: false
 

@@ -17,7 +17,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Natural amber nuggets from the Rovno deposit, western Ukraine. Photo courtesy of Ryan C. McKellar.'
   focal_point: ''
   preview_only: false
 
@@ -32,5 +32,8 @@ publication_types:
 - '0'
 abstract: ''
 publication: 'Science Trends'
-url_pdf: https://sciencetrends.com/geochemical-methods-help-resolve-a-long-standing-debate-in-amber-palaeontology/
+url_pdf: 
+links:
+  - name: Link
+    url: 'https://sciencetrends.com/geochemical-methods-help-resolve-a-long-standing-debate-in-amber-palaeontology'
 ---

@@ -24,10 +24,9 @@ bio: My research focuses on investigating Precambrian redox conditions using tra
 
 # Interests to show in About widget
 interests:
-- Trace metal geochemistry
-- Paleoproterozoic redox
-- Weathering regimes
-- Phosphogenesis
+- Trace metal and nutrient geochemistry
+- Redox conditions through Earth history
+- Weathering environments
 - Amber geochemistry
 
 # Education to show in About widget

@@ -28,7 +28,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'A proposed paleogeographic reconstruction of the Rovno amber source area during the Late Eocene. Shaded areas represent Late Eocene landmass, contours are superimposed modern state borders.'
   focal_point: ''
   preview_only: false
 
@@ -65,6 +65,6 @@ abstract: 'Ambers—fossilized plant resins—are a rich and unique source of pa
   paleoecological studies involving inclusions from these deposits, and for determining
   the provenance of archaeological amber finds.'
 publication: 'Palaeogeography, Palaeoclimatology, Palaeoecology'
-url_pdf:
+url_pdf: https://978f42cc-a38c-44b9-b269-e235d1da75fa.filesusr.com/ugd/161b8a_becb5f2a5ade464fb167e657008f1921.pdf
 doi: 10.1016/j.palaeo.2018.06.004
 ---

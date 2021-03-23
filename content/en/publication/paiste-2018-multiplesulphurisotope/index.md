@@ -35,7 +35,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Representative images of the OnZap cores. A. Fine-grained laminated mudstone with pyrite concretions and layers (11.8 m depth). B. Laminated fine-grained dolostone (13.4 m depth). C. Finely parallel-laminated to ripple cross-laminated grey mudstone (19.38 m depth). D. Laminated organic-rich mudstone with soft-sediment deformation, quartz and pyrobitumen veining (63.4 m depth). E. Silicified organic-rich mudstone displaying deformation, intense veining and secondary pyrite (76.5 m depth). The width of all the images is 7 cm.'
   focal_point: ''
   preview_only: false
 
@@ -69,6 +69,6 @@ abstract: 'The exceptionally organic-rich rocks of the 1.98 Ga Zaonega Formation
   of basinal processes in regulating sulphur isotope records and the need for care
   before interpreting such signals as reflecting global conditions.'
 publication: 'Chemical Geology'
-url_pdf:
+url_pdf: https://research-repository.st-andrews.ac.uk/bitstream/10023/18505/1/Paiste_2018_CG_Multiplesulphur_AAM.pdf
 doi: 10.1016/j.chemgeo.2018.09.025
 ---

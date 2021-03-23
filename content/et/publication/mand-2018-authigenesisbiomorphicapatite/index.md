@@ -27,7 +27,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Scanning electron microscope (SEM)‐SE (a,b,d) and SEM‐BSE (c) images of progressing apatite growth forms from broken‐surface pellets (c from core GC4, all others from core 25005). Rod‐shaped and other apatite microstructures form a continuum from (a) spindle‐shaped elongated rods to (b) rods that start to bulge at their distal ends to (c) dumbbells to (d) spherical particles. Scale bars represent 1 μm.'
   focal_point: ''
   preview_only: false
 
@@ -68,6 +68,6 @@ abstract: 'Sedimentary phosphorites comprise a major phosphorus (P) ore, yet the
   organic matter as a template for phosphatic mineral nucleation in both recent and
   ancient phosphorites.'
 publication: 'Geobiology'
-url_pdf:
+url_pdf: https://978f42cc-a38c-44b9-b269-e235d1da75fa.filesusr.com/ugd/161b8a_6945257348a64e1a96815c51697dee1d.pdf
 doi: 10.1111/gbi.12309
 ---

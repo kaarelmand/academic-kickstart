@@ -33,5 +33,8 @@ publication_types:
 - '0'
 abstract: ''
 publication: 'Seminars on Animal Ecology, Tartu, Estonia'
-url_pdf: https://www.zooloogia.ut.ee/et/loomaokoloogia/loomaokoloogia-seminarid
+url_pdf:
+links:
+  - name: Link
+    url: https://www.zooloogia.ut.ee/et/loomaokoloogia/loomaokoloogia-seminarid
 ---

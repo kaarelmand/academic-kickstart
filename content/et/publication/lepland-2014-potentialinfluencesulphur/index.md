@@ -40,7 +40,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'SEM–BSE images of cracked rock surfaces illustrating apatite particles (BSE light) and the massive carbonaceous matrix (BSE dark) in phosphate nodules and layers.'
   focal_point: ''
   preview_only: false
 
@@ -72,6 +72,6 @@ abstract: 'All known forms of life require phosphorus, and biological processes 
   to modern sites13, and by the precipitation of calcium phosphate minerals on microbial
   templates during early diagenesis.'
 publication: 'Nature Geoscience'
-url_pdf:
+url_pdf: https://www.researchgate.net/profile/Nick_Roberts5/publication/258866628_Potential_influence_of_sulphur_bacteria_on_Palaeoproterozoic_phosphogenesis/links/543694740cf2643ab98729ae/Potential-influence-of-sulphur-bacteria-on-Palaeoproterozoic-phosphogenesis.pdf
 doi: 10.1038/NGEO2005
 ---

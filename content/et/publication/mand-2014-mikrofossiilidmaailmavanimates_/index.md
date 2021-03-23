@@ -32,5 +32,8 @@ publication_types:
 - '0'
 abstract: ''
 publication: 'Schola Geologica X: Fosfor – aegade algusest tänapäevani, Jäneda, Estonia'
-url_pdf: https://docs.google.com/uc?id=0B_N9jbYgrqcPT0FmaWh5RVJoVHM&export=download
+url_pdf:
+links:
+  - name: Link
+    url: http://sygiskool.ee/2014/?page_id=552
 ---

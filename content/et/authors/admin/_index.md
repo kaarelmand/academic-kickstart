@@ -23,10 +23,9 @@ organizations:
 bio: Minu teadustöö põhisuunaks on Eelkambriumi aja keskkonnatingimuste uurimine kivimite jälgmetallkoostise põhjal.
 
 interests:
-- Jälgmetallide geokeemia
-- Redokstingimused Paleoproterosoikumis
+- Jälgmetallide ja toiteelmentide geokeemia
+- Redokstingimused Maa ajaloos
 - Murenemiskeskkonnad
-- Fosfogenees
 - Merevaigu geokeemia
 
 education:

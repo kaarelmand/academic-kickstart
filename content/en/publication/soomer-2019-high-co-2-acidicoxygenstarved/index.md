@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: High-CO2, acidic and oxygen-starved weathering at the Fennoscandian Shield
+title: High-CO$\\_2$, acidic and oxygen-starved weathering at the Fennoscandian Shield
   at the Archean-Proterozoic transition
 subtitle: ''
 summary: ''
@@ -31,7 +31,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'The appearance and texture of the paleoweathering crust: images A, B and C are scans of whole thin sections in ordinary incident light, and the scale bar at the right applies to all three images. The rock is intensely weathered at 1.8 m below the surface (A), with less altered basalt at 5.2 m depth (B), and the least-altered parent rock at 11.5 m depth (C). Amphibole in the basaltic parent rock is altered as evidenced by dissolved edges of the crystals (E, image taken in crossed polars), whereas deeper at 11 m depth, actinolite fibrous overgrowth is evident (F, image taken in crossed polars).'
   focal_point: ''
   preview_only: false
 

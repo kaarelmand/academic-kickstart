@@ -56,5 +56,8 @@ abstract: 'Microbial processes are thought to play an important role in modern m
   apatite composites with organic matrices is consistent with the influence ofbiological
   processes on phosphate availability and precipitation.'
 publication: '32nd Nordic Geological Winter Meeting, Helsinki, Finland'
-url_pdf: https://www.geologinenseura.fi/fi/bulletin/special-volume-1-2016
+url_pdf:
+links:
+  - name: Link
+    url: https://www.geologinenseura.fi/winter_meeting/
 ---

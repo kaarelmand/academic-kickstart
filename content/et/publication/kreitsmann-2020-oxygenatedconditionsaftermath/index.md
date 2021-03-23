@@ -33,7 +33,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'REY$_{SN}$ patterns of Units A, B, C, and samples from all units (D) that passed screening (i.e., Zr < 4 ppm). Unit A has a higher concentration of REY and shows MREE enrichment compared to LREE and HREE. Unit B has a coherent pattern but with varying REY concentration. Unit C is also enriched in MREE compared to other REE and does not show anomalous behaviour other than a positive EuSN anomaly. Samples from Unit A and C have a strong shale contamination and only one sample from each unit passed the screening.'
   focal_point: ''
   preview_only: false
 

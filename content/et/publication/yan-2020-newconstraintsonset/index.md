@@ -30,7 +30,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Back-scattered electron images of minerals in claystones. (a) Mixed illite/smectite (I/S) matrix and vermicular kaolinite, (b) subhedral anatase, (c) chamosite altered by bastnaesite, and (d) euhedral or short columnar apatite in an I/S matrix.'
   focal_point: ''
   preview_only: false
 
@@ -60,6 +60,6 @@ abstract: The onset of the Middle Permian Emeishan Large Igneous Province (ELIP)
   ELIP, which was likely associated with violent submarine eruptions and thus could
   have contributed to the loss of marine fauna during the Guadalupian mass extinction.
 publication: 'Lithos'
-url_pdf:
+url_pdf: https://978f42cc-a38c-44b9-b269-e235d1da75fa.filesusr.com/ugd/161b8a_dd3ca4b937334d34944c38a9b5447a01.pdf
 doi: 10.1016/j.lithos.2020.105441
 ---

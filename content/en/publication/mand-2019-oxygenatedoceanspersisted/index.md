@@ -64,5 +64,8 @@ abstract: The Lomagundi-Jatuli Event (LJE;  2.22–2.06 Ga), the longest-lived C
   doubt on our understanding of the mechanisms underlying some of the most profound
   environmental shifts in the Paleoproterozoic.
 publication: '2nd Geobiology Society Meeting, Banff, Canada'
-url_pdf: https://cms.eas.ualberta.ca/geobiology2019/
+url_pdf:
+links:
+  - name: Link
+    url: 'https://cms.eas.ualberta.ca/geobiology2019/'
 ---

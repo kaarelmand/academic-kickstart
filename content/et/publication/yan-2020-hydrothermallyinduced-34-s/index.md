@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Hydrothermally induced 34S enrichment in pyrite as an alternative explanation
+title: Hydrothermally induced $^{34}$S enrichment in pyrite as an alternative explanation
   of the Late-Devonian sulfur isotope excursion in South China
 subtitle: ''
 summary: ''
@@ -33,7 +33,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: '(a) Estimates of Phanerozoic seawater sulfate concentrations based on fluid inclusion data from marine evaporates. (b) The sulfur isotope record of Phanerozoic sedimentary pyrite (blue circles) and sulfates (red circles). The shaded area indicates the envelope of observed sulfur isotope fractionations between sedimentary sulfate and pyrite (Δ34Ssulfate-pyrite). (c) The sulfur isotope record of pyrite and carbonate- associated sulfate (CAS) in Late Devonian sedimentary carbonate rocks from the Granite Mountains, USA; Jasper, Canada; Fuhe, China; and Kowala, Poland. The Late Devonian is characterized by a strikingly positive excursion in pyrite sulfur isotope ratios, which are variable in their timing, duration, and magnitude. Some pyrites from that time display extremely positive δ34S values, even higher than that of the inferred Late Devonian seawater sulfate (i.e., δ34Spyrite > δ34Ssulfate; δ34Ssulfate = ∼+23‰; gray dashed line), as reconstructed from CAS in the calcite lattice.'
   focal_point: ''
   preview_only: false
 
@@ -79,6 +79,6 @@ abstract: 'Several Late Devonian sedimentary successions host pyrite with highly
   isotope records and suggest the need for careful petrographic screening and micrometer-scale
   analysis of sedimentary units used to reconstruct paleoenvironmental conditions.'
 publication: 'Geochimica et Cosmochimica Acta'
-url_pdf:
+url_pdf: https://978f42cc-a38c-44b9-b269-e235d1da75fa.filesusr.com/ugd/161b8a_a1dc1a993e8d4788b35efbb03aca07b5.pdf
 doi: 10.1016/j.gca.2020.05.017
 ---

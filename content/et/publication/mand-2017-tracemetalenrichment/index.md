@@ -61,5 +61,8 @@ abstract: 'The trace metal Molybdenum (Mo) has seen widespread use in estimating
   organic matter are considered, with important implications for global paleoredox
   models based off of the trace metal systematics of black shales.'
 publication: '1st Geobiology Society Meeting, Banff, Canada'
-url_pdf: https://cms.eas.ualberta.ca/Geobiology2017/
+url_pdf:
+links:
+  - name: Link
+    url: https://cms.eas.ualberta.ca/Geobiology2017/
 ---

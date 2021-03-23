@@ -41,6 +41,6 @@ publication_types:
 - '6'
 abstract: 'Trace metals are metallic elements on the periodic table that are found in low concentrations in both aqueous environments (seawater, freshwater, mine waters) and geologic samples (minerals, rocks, and mine tailings). In aqueous environments, trace metals include any metal element present at concentrations between 10−15 mol/L (1 fM) and 10−5 mol/L (10 μM). In geological samples, trace metals are present in abundances of <0.1% by weight and typically quantified in either ppm (mg/kg) or ppb (μg/kg). With regard to trace metals in astrobiology and geobiology, there is an increased focus on transition metals in columns 3–12 of the periodic table.'
 publication: 'Encyclopedia of Astrobiology'
-url_pdf:
+url_pdf: https://978f42cc-a38c-44b9-b269-e235d1da75fa.filesusr.com/ugd/161b8a_05ed2a86fde34145bc8cfa474a338dc1.pdf
 doi: 10.1007/978-3-642-27833-4_5422-1
 ---

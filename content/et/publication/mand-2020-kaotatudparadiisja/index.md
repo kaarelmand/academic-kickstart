@@ -33,5 +33,8 @@ publication_types:
 - '0'
 abstract: ''
 publication: 'Schola Geologica XVI: Tihedalt koos elamine, Tartu, Estonia'
-url_pdf: https://drive.google.com/file/d/1TD0SzGBKc1jyfub3xcwMVoR_q9GJPWY2/view
+url_pdf:
+links:
+  - name: Link
+    url: http://sygiskool.ee/2014/?p=1257
 ---

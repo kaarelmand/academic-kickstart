@@ -34,7 +34,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Schematic diagram for the diagenetic origin of siderite in the Dagushan BIF based on mineralogical, chemical, and C and Fe isotope data.'
   focal_point: ''
   preview_only: false
 

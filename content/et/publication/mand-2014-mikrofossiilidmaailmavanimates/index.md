@@ -17,7 +17,11 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Skaneeriva elektronmikroskoobi tagasihajunud elektronide pilt kõrge
+fosfaadisisaldusega šungiitidest. Pildil on näha üht tüüpilist fosfaatset noodulit, mis
+koosneb apatiitsetest silindritest. Ümbritseva sette kihilisus paindub ümber nooduli,
+mis näitab, et noodul oli olemas juba enne sette litifitseerumist. Heledamad alad on
+enamasti apatiidirikkad, tumedamad süsinikurikkad.'
   focal_point: ''
   preview_only: false
 

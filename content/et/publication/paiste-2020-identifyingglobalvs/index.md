@@ -32,7 +32,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Compilation of sulfide (grey) and sulfate (light blue) δ34S data through time with expanded trends shown for stratigraphic pyrite δ34S profiles from the Francevillian, Onega, Pechenga and Animikie successions.'
   focal_point: ''
   preview_only: false
 
@@ -45,7 +45,7 @@ projects: []
 publishDate: '2021-03-02T12:24:19.287763Z'
 publication_types:
 - '2'
-abstract: Paleoproterozoic sedimentary successions are important archives of the redox
+abstract: 'Paleoproterozoic sedimentary successions are important archives of the redox
   evolution of Earth’s atmosphere and oceans. Efforts to unravel the dynamics of our
   planet’s early oxygenation from this archive rely on various geochemical proxies,
   including stable carbon and sulfur isotopes. However, ancient metasedimentary rocks
@@ -73,7 +73,7 @@ abstract: Paleoproterozoic sedimentary successions are important archives of the
   not necessarily unique to certain time intervals. We further show that pyrites in
   these successions that are most likely to capture ambient seawater sulfate isotopic
   composition have consistent δ34S values of 15–18‰, which hints at remarkable stability
-  in the marine sulfur cycle over most of the Paleoproterozoic Era.
+  in the marine sulfur cycle over most of the Paleoproterozoic Era.'
 publication: 'Earth-Science Reviews'
 url_pdf:
 doi: 10.1016/j.earscirev.2020.103230

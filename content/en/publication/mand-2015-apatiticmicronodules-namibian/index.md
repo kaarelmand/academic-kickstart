@@ -58,5 +58,8 @@ abstract: 'Modern phosphogenesis in upwelling shelf areas is thought to be stron
   particles with organic matrices is consistent with the influence of biological processes
   on phosphate availability and precipitation.'
 publication: 'Goldschmidt 2015, Prague, Czechia'
-url_pdf: https://whiteiron.org/uploads/conferences/25/abstracts/A-Z.pdf
+url_pdf:
+links: 
+  - name: Link
+    url: https://goldschmidt.info/2015/
 ---

@@ -17,7 +17,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Scanning electron back-scatted micrograph of shungite rocks with a high phosphorous content. The image shows a typical phosphatic nodule, consisting of apatitic cylinders. The deflecting laminae surrounding the nodule suggest that the nodule pre-dated sediment lithification. Brighter areas reflect higher apatite content, darker areas reflect organic carbon content.'
   focal_point: ''
   preview_only: false
 

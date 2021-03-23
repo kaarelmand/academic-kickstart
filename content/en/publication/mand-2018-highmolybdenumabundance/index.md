@@ -55,5 +55,8 @@ abstract: 'The Paleoproterozoic era is characterized by fundamental shifts in th
   compared what was previously suggested at  2 Ga [2]. Our results suggest a significant
   time-gap between the LIE termination and onset of Mesoproterozoic low-O2 conditions.'
 publication: 'Gordon research conference “Geobiology 2018,” Galveston, Texas, USA'
-url_pdf: https://www.grc.org/geobiology-conference/2018/
+url_pdf:
+links:
+  - name: Link
+    url: 'https://www.grc.org/geobiology-conference/2018/'
 ---

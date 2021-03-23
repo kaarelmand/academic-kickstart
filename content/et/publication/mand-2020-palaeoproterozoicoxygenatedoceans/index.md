@@ -32,7 +32,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'Secular trends in RSE concentrations from anoxic shales. Zaonega Formation data (plus and circle symbols) are plotted on compilations from the literature (× symbols). a, Changes in δ13Ccarb through time. b, Mo concentrations. c, U concentrations. d, U isotope ratios. e, Re concentrations.'
   focal_point: ''
   preview_only: false
 
@@ -47,6 +47,6 @@ publication_types:
 - '2'
 abstract: 'The approximately 2,220–2,060 million years old Lomagundi–Jatuli Event was the longest positive carbon isotope excursion in Earth history and is traditionally interpreted to reflect an increased organic carbon burial and a transient rise in atmospheric O2. However, it is widely held that O2 levels collapsed for more than a billion years after this. Here we show that black shales postdating the Lomagundi–Jatuli Event from the approximately 2,000 million years old Zaonega Formation contain the highest redox-sensitive trace metal concentrations reported in sediments deposited before the Neoproterozoic (maximum concentrations of Mo = 1,009 μg g−1, U = 238 μg g−1 and Re = 516 ng g−1). This unit also contains the most positive Precambrian shale U isotope values measured to date (maximum 238U/235U ratio of 0.79‰), which provides novel evidence that there was a transition to modern-like biogeochemical cycling during the Palaeoproterozoic. Although these records do not preclude a return to anoxia during the Palaeoproterozoic, they uniquely suggest that the oceans remained well-oxygenated millions of years after the termination of the Lomagundi–Jatuli Event.'
 publication: 'Nature Geoscience'
-url_pdf:
+url_pdf: https://978f42cc-a38c-44b9-b269-e235d1da75fa.filesusr.com/ugd/161b8a_6af8e3d842ba49638c9f0b2dc5a24787.pdf
 doi: 10.1038/s41561-020-0558-5
 ---
