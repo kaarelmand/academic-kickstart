@@ -6,7 +6,7 @@ title: 'Apatitic micronodules in Namibian Shelf sediments: Mineralized microbes 
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 - Jake V. Bailey
 - Aivo Lepland
 - Kalle Kirsimäe

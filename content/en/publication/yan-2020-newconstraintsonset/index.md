@@ -10,7 +10,7 @@ authors:
 - Dao-Hui Pi
 - Shao-Yong Jiang
 - Weiduo Hao
-- Kaarel Mänd
+- admin
 - Leslie J. Robbins
 - Long Li
 - Kurt O. Konhauser

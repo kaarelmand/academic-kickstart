@@ -11,7 +11,7 @@ authors:
 - Aubrey L. Zerkle
 - Kalle Kirsimäe
 - Timmu Kreitsmann
-- Kaarel Mänd
+- admin
 - Alexander E. Romashkin
 - Dmitry V. Rychanchik
 - Anthony R. Prave

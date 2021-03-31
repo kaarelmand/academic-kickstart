@@ -5,7 +5,7 @@ title: Geochemical methods help resolve a long-standing debate in amber palaeont
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 tags: []
 categories: ['publication']
 date: '2018-01-01'

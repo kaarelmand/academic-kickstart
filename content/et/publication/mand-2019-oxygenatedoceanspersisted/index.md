@@ -6,7 +6,7 @@ title: 'Oxygenated oceans persisted after the Lomagundi Event: Evidence from the
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 - Leslie J. Robbins
 - Stefan V. Lalonde
 - Marie Thoby

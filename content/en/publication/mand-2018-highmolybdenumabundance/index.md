@@ -6,7 +6,7 @@ title: 'High molybdenum abundance in the ~2 Ga Zaonega Formation: Implications f
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 tags: []
 categories: ['presentation']
 date: '2018-01-22'

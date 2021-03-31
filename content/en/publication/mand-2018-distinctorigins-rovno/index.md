@@ -6,7 +6,7 @@ title: 'Distinct origins for Rovno and Baltic ambers: Evidence from carbon and h
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 - Karlis Muehlenbachs
 - Ryan C. McKellar
 - Alexander P. Wolfe

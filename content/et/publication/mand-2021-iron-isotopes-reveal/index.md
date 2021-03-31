@@ -6,7 +6,7 @@ title: 'Iron Isotopes Reveal a Benthic Iron Shuttle in the Palaeoproterozoic Zao
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 - Stefan V. Lalonde
 - Kärt Paiste
 - Marie Thoby

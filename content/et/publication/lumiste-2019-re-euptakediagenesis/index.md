@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Kaarel Lumiste
-- Kaarel Mänd
+- admin
 - Jake V. Bailey
 - Päärn Paiste
 - Liisa Lang

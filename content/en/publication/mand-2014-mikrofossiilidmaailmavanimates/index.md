@@ -5,7 +5,7 @@ title: Microfossils in the world's oldest phosphorites
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 tags: []
 categories: ['publication']
 date: '2014-01-01'

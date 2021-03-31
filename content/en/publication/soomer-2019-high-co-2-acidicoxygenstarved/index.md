@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Sigrid Soomer
 - Peeter Somelar
-- Kaarel Mänd
+- admin
 - Steven G. Driese
 - Aivo Lepland
 - Kalle Kirsimäe

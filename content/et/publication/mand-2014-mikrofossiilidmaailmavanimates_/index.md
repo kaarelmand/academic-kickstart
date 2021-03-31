@@ -5,7 +5,7 @@ title: Mikrofossiilid maailma vanimates fosforiitides
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 tags: []
 categories: ['presentation']
 date: '2014-10-18'

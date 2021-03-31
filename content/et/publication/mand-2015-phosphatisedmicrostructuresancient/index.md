@@ -5,7 +5,7 @@ title: Phosphatised microstructures in ancient and modern phosphorites
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 tags: []
 categories: ['presentation']
 date: '2015-06-02'

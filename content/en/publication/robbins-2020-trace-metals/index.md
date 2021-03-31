@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Leslie. J. Robbins
-- Kaarel Mänd
+- admin
 - Noah J. Planavsky
 - Daniel S. Alessi
 - Kurt O. Konhauser

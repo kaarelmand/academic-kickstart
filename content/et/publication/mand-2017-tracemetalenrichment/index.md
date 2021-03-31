@@ -5,7 +5,7 @@ title: Trace metal enrichment in 1.98 Ga black shales of the Zaonega Formation
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 - Aivo Lepland
 - Marie Thoby
 - Stefan V. Lalonde

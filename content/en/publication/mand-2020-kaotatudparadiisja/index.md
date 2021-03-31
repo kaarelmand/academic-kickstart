@@ -5,7 +5,7 @@ title: 'The cradle of complex life: Oxygen and eukaryotes 2 billion years ago'
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 tags: []
 categories: ['presentation']
 date: '2020-09-26'

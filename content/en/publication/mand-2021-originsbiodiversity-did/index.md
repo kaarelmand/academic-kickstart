@@ -6,7 +6,7 @@ title: 'The origins of biodiversity: Did changing oxygen levels in the Proterozo
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 tags: []
 categories: ['presentation']
 date: '2021-02-01'

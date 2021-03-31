@@ -12,7 +12,7 @@ authors:
 - Weiduo Hao
 - Huan Cui
 - Leslie J. Robbins
-- Kaarel Mänd
+- admin
 - Long Li
 - Noah J. Planavsky
 - Kurt O. Konhauser

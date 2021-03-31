@@ -6,7 +6,7 @@ title: 'Kaotatud paradiis ja keeruka elu häll: Hapnik ja päristuumsed 2 miljar
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 tags: []
 categories: ['presentation']
 date: '2020-09-26'

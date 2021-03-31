@@ -12,7 +12,7 @@ authors:
 - Michael Bau
 - Anthony Prave
 - Kärt Paiste
-- Kaarel Mänd
+- admin
 - Holar Sepp
 - Tõnu Martma
 - Alexander E. Romashkin

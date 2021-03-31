@@ -6,7 +6,7 @@ title: Origin of rod and dumbbell shaped phosphate precipitates in Namibian Shel
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 - Jake V. Bailey
 - Aivo Lepland
 - Kalle Kirsimäe

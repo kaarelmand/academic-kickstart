@@ -7,7 +7,7 @@ title: 'Authigenesis of biomorphic apatite particles from Benguela Upwelling Zon
 subtitle: ''
 summary: ''
 authors:
-- Kaarel Mänd
+- admin
 - Kalle Kirsimäe
 - Aivo Lepland
 - Chris H. Crosby

@@ -80,6 +80,9 @@ email: ""
 user_groups:
 #- Researchers
 #- Visitors
+
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 Olen teadur [Tartu Ülikooli Geoloogia osakonnas](https://www.geoloogia.ut.ee/et). Minu teadustöö põhisuunaks on uurida iidsel Maal toimunud suuremastaabilisi muutusi mandrite murenemises ja toitainete ringluses veekeskkondades ning nende muudatuste mõju ookeanidele, atmosfäärile ja biosfäärile. Selle tarbeks rakendan ma iidsetesse settekivimitesse salvestunud jälgmetallide-põhiseid paleokeskkonna indikaatoreid, mille abil on võimalik taasluua mineviku keskkonnatingimusi.

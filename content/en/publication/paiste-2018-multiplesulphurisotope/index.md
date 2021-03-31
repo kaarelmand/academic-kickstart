@@ -14,7 +14,7 @@ authors:
 - Neel K. Patel
 - Fiona McLean
 - Timmu Kreitsmann
-- Kaarel Mänd
+- admin
 - Thi H. Bui
 - Alexander E. Romashkin
 - Dmitry V. Rychanchik

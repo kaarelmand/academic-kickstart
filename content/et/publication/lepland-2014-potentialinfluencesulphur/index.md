@@ -15,7 +15,7 @@ authors:
 - Anthony E. Fallick
 - Peeter Somelar
 - Kärt Üpraus
-- Kaarel Mänd
+- admin
 - Nick M. W. Roberts
 - Mark A. van Zuilen
 - Richard Wirth

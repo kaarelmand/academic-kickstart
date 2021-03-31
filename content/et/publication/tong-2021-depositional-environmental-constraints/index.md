@@ -11,7 +11,7 @@ authors:
 - Zidong Peng
 - Yuhao Li
 - Weiduo Hao
-- Kaarel Mänd
+- admin
 - Leslie J. Robbins
 - Lianchang Zhang
 - Qiang Ke

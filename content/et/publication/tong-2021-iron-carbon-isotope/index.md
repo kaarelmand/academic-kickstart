@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Xiaoxue Tong
-- Kaarel Mänd
+- admin
 - Yuhao Li
 - Lianchang Zhang
 - Zidong Peng

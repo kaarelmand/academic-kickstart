@@ -8,7 +8,7 @@ summary: 'The oceans probably remained well-oxygenated for millions of years aft
   isotope signatures of redox-sensitive metals in the 2-billion-year-old Zaonega Formation,
   Russia.'
 authors:
-- Kaarel Mänd
+- admin
 - Stefan V. Lalonde
 - Leslie J. Robbins
 - Marie Thoby
