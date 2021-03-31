@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+The weathering of trace metals and nutrients on land, their transport into the marine realm, and partitioning in sediments.

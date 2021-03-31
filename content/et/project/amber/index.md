@@ -5,7 +5,7 @@ title: "Merevaigu geokeemia"
 summary: "Merevaigulademete tekketingimuste uurimine stabiilsete isotoopide suhete ja sprektraalanalüüsi abil."
 authors: []
 tags: []
-categories: []
+categories: ['Merevaik']
 date: 2019-11-09T20:46:59+02:00
 
 # Optional external URL for project (replaces project detail page).
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Merevaigulademete tekketingimuste uurimine stabiilsete isotoopide suhete ja sprektraalanalüüsi abil.

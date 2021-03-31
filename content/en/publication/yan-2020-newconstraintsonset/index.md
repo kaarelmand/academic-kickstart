@@ -43,7 +43,7 @@ projects: []
 publishDate: '2021-03-02T12:24:19.778655Z'
 publication_types:
 - '2'
-abstract: The onset of the Middle Permian Emeishan Large Igneous Province (ELIP),
+abstract: "The onset of the Middle Permian Emeishan Large Igneous Province (ELIP),
   is commonly implicated in the Guadalupian mass extinction, one of the largest Phanerozoic
   extinction events, yet the contribution of the ELIP to this biotic event remains
   unresolved because of a lack of appropriate age constraints. In this study, we examined
@@ -58,7 +58,7 @@ abstract: The onset of the Middle Permian Emeishan Large Igneous Province (ELIP)
   of early-stage Emeishan subaqueous pillow basalts and mafic volcaniclastics. Our
   data provide a crucial new constraint on the lower age limit for the onset of the
   ELIP, which was likely associated with violent submarine eruptions and thus could
-  have contributed to the loss of marine fauna during the Guadalupian mass extinction.
+  have contributed to the loss of marine fauna during the Guadalupian mass extinction."
 publication: 'Lithos'
 url_pdf: https://978f42cc-a38c-44b9-b269-e235d1da75fa.filesusr.com/ugd/161b8a_dd3ca4b937334d34944c38a9b5447a01.pdf
 doi: 10.1016/j.lithos.2020.105441

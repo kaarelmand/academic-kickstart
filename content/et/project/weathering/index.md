@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Murenemiskeskkonnad kui biosfäärile vajalike mineraalsete toitainete allikad ja Maa atmosfäärilise koostise arhiivid.

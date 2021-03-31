@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Maakera pinna redokstingimuste areng läbi Arhaikumi, Proterosoikumi ja Paleosoikumi ajaperioodide ning nende vastastikkune mõju elementide ringlusele ja elu arengule.

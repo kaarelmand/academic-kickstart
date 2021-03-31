@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Redox evolution of the ocean and atmosphere in the Archean, Proterozoic, and Paleozoic, as well as its effects on the biosphere and global elemental cycles.

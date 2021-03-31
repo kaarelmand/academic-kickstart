@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+The provenance of amber deposits as revealed through their stable isotope composition and spectral characteristics.

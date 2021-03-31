@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+The generation of phosphate-rich minerals and sediments. The preservation of microbes in apatite and their role in its nucleation and growth.

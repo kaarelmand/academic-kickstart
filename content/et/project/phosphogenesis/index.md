@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Setteliste fosfaatsete mineraalide teke. Mikroobide roll apatiidi nukleerumisel ja kasvul.

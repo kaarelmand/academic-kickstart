@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Jälgmetallide ja mineraalsete toiteelementide porsumine mandritel, nende transport ookeanidesse ja ladestumine setetes.
