@@ -27,6 +27,23 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
+
+  email: kaarel.mand@ut.ee
+  phone:
+  address:
+    street: Tartu Ülikool, Geoloogia Osakond, Ravila 14A
+    city: Tartu
+    region:
+    postcode: '50411'
+    country: Eesti
+    country_code: EE
+  coordinates:
+    latitude: '58.36703'
+    longitude: '26.6927'
+  directions:
+  office_hours:
+  appointment_url:
+  contact_links:
   
 design:
   columns: '2'

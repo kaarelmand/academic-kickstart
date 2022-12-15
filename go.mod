@@ -1,9 +1,8 @@
 module my-site
 
-go 1.13
+go 1.15
 
 require (
-	github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic v0.0.0-20210211185922-b811f9a1bb9c // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy v0.0.0-20210324194200-fda9f39d872e // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms v0.0.0-20210324194200-fda9f39d872e // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220412113704-f6b6d736055b
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220412113704-f6b6d736055b
 )

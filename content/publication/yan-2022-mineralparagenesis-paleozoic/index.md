@@ -1,0 +1,14 @@
+---
+title: "Mineral Paragenesis in Paleozoic Manganese Ore Deposits: Depositional versus Post-Depositional Formation Processes"
+date: 2022-03-29
+publishDate: 2022-04-14T13:37:11.350470Z
+authors: ["Hao Yan", "Dao-Hui Pi", "Shao-Yong Jiang", "Jingwen Mao", "Lingang Xu", "Xiuqing Yang", "Weiduo Hao", "Kaarel Mänd", "Long Li", "Kurt O. Konhauser", "Leslie J. Robbins"]
+publication_types: ["2"]
+abstract: "Unlike modern Mn(IV)-dominated manganese nodules, ancient manganese deposits primarily contain Mn(II) (manganous) mineral phases. The general assumption is that these manganous minerals formed post-depositionally from a Mn(IV) precursor phase during diagenesis and metamorphism. However, recent studies have shown that aqueous Mn(II) may combine with either CO32-(aq) or H4SiO4(aq) to nucleate and precipitate as primary manganous phases within anoxic waters. These findings thus make it difficult to assess what comprised the primary mineral assemblage of ancient Mn deposits, which in turn, has implications for understanding the redox fabric of the past marine water column. Here, we investigate the paragenesis and oxidation state of various Mn minerals (oxides, carbonates, and silicates) from the late Devonian Xialei and middle to late Permian Zunyi manganese deposits in South China. Through characterization of the micro-scale distribution, composition, and speciation of different Mn-bearing mineral phases, we provide evidence to support an oxidative mechanism during Mn cycling at the time of deposition. We document the presence of a residual oxide phase (hausmannite; Mn3O4) that represents a primary to early formed Mn(III)-bearing oxide preserved in Mn(II)-carbonate nodules. Additionally, we observe spherulitic textures comprised of mixed-valence Mn(II,III,IV)-silicates enclosed in diagenetic Mn(II)-carbonate laminations. Our results allow for the construction of a paragenetic model for these deposits beginning with the reduction of a primary Mn(IV) phase and the subsequent precipitation of intermediate Mn(III)-oxide or -silicate mineral phases. Following continued exposure to reducing conditions during early diagenesis, Mn(III)-oxides were then replaced by Mn(II)-carbonates. Similarly, Mn(III)-silicates were transformed into various Mn(II)-silicates during late-stage diagenesis and metamorphism. This model suggests that the accumulation of various divalent Mn mineral phases in ancient sediments may, therefore, be indicative of deposition under a water column with a sufficient oxidizing potential to induce Mn(II) oxidation."
+featured: false
+publication: ""
+tags: ["ancient sediments", "carbonates", "Manganese", "oxidation state", "paragenesis", "silicates", "South China"]
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0016703722001570"
+doi: "10.1016/j.gca.2022.03.030"
+---
+

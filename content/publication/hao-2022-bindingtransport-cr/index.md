@@ -1,0 +1,14 @@
+---
+title: "Binding and Transport of Cr(III) by Clay Minerals during the Great Oxidation Event"
+date: 2022-04-15
+publishDate: 2022-04-14T13:37:11.348864Z
+authors: ["Weiduo Hao", "Ning Chen", "Wenyuan Sun", "Kaarel Mänd", "Kalle Kirsimäe", "Yoram Teitler", "Peeter Somelar", "Leslie J. Robbins", "Michael G. Babechuk", "Noah J. Planavsky", "Daniel S. Alessi", "Kurt O. Konhauser"]
+publication_types: ["2"]
+abstract: "A spike in chromium (Cr) abundance above crustal background in iron formations post-dating the Great Oxidation Event (ca. 2.5-2.3 billion years ago) has been suggested to reflect the evolution of terrestrial aerobic pyrite and siderite oxidation and the initiation of widespread acid rock drainage that would enhance Cr transport from terrestrial weathering environments to the oceans. However, it remains unclear whether Cr was transported in a soluble form (as Cr(III) or Cr(VI)), or bound to particulate surfaces. Here, we experimentally investigate the binding mechanisms of Cr(III) – the typical oxidation state associated with primary igneous minerals such as chromite – to three common soil clay minerals (kaolinite, illite, and montmorillonite) using extended X-ray adsorption fine structure (EXAFS) spectroscopy. Our results demonstrate that Cr(III) precipitates on the clay surfaces over a pH range of 6 to 8 as guyanaite (β-CrOOH) due to the replacement of surface Al-octahedra by paired Cr(III) octahedra. Bidentate bonding with a Cr-Cr interatomic distance of 3.43-3.51 Å indicates the incorporation of Cr(III) into the clay structure. A comparison between Cr(III) adsorption/precipitation onto the three clays and the desorption of Cr(III) from Cr(III)-spiked clays shows that kaolinite has the highest retention capacity for Cr(III), a predictable result given that an entire Al-octahedral sheet is exposed for Cr(III) binding, while illite and montmorillonite only have Al-edge sites. Moreover, Cr(III) was essentially immobilized in our experiments except under very acidic conditions (pH$<$2). Extending our results to the interpretation of the Cr record in iron formations, we suggest that under intense chemical weathering conditions, not only did acidity promote the solubilization of Cr(III) from primary Cr-bearing minerals, but that parent rocks were more systematically weathered to an advanced state dominated by kaolinite – creating ideal conditions for Cr adsorption. Erosion of regolith that scavenged mobilized Cr(III) could then facilitate transport of Cr(III)-bearing kaolinite to coastal environments where it contributed to the super-crustal Cr abundances above detrital background preserved in ca. 2.5-2.0 Ga iron formations."
+featured: false
+publication: ""
+tags: ["clay transportation", "Cr(III)", "EXAFS", "iron formation"]
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0012821X2200139X"
+doi: "10.1016/j.epsl.2022.117503"
+---
+

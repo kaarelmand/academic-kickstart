@@ -27,7 +27,25 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
-  
+
+  # Contact details (edit or remove options as required)
+  email: kaarel.mand@ut.ee
+  phone:
+  address:
+    street: University of Tartu, Department of Geology, Ravila 14A
+    city: Tartu
+    region:
+    postcode: '50411'
+    country: Estonia
+    country_code: EE
+  coordinates:
+    latitude: '58.36703'
+    longitude: '26.6927'
+  directions:
+  office_hours:
+  appointment_url:
+  contact_links:
+
 design:
   columns: '2'
 ---
